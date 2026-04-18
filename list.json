@@ -10,7 +10,7 @@
   "flatsiedatsie/display-toggle",
   "createcandle/energyuse",
   "createcandle/Webthings-mysensors-adapter",
-  "flatsiedatsie/followers-addon",
+  "createcandle/followers-addon",
   "flatsiedatsie/highlights",
   "createcandle/hotspot",
   "flatsiedatsie/internet-radio",
