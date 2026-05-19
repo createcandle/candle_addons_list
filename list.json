@@ -31,5 +31,6 @@
   "createcandle/toothbrush",
   "createcandle/dashboard",
   "createcandle/networkscanner",
+  "createcandle/infrared",
   "kabbi/zigbee2mqtt-adapter"
 ]
